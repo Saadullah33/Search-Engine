@@ -1,0 +1,27 @@
+.listWrapper{
+    background-color: crimson;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.list{
+    list-style-type: none;
+    text-align: left;
+    font-size: 15px;
+    color: lime;
+    border: 1px solid black;
+    list-style-type: square;
+}
+li{
+    padding: 5px;
+}
+.heading{
+    color: mediumspringgreen;
+    font: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
